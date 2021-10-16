@@ -1,0 +1,16 @@
+{
+    "ecmaFeatures": {
+        "arrowFunctions": true,
+        "classes": true,
+        "forOf": true,
+        "generators": true,
+        "binaryLiterals": true,
+        "modules": true,
+        "spread": true,
+        "templateStrings": true,
+        "restParams": true
+    },
+    "parser": "@typescript-eslint/parser",
+    "plugins": ["@typescript-eslint"],
+    "extends": ["plugin:@typescript-eslint/eslint-recommended"]
+}
